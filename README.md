@@ -7,7 +7,7 @@ I.m Farish Asqalani from Indonesia, currently im a student at SMKN 2 Banjarmasin
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=CL3IX&show_icons=true&theme=vue-dark" />
  <img class="img" style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=vue-dark&layout=compact" />
-  <img class="img" style="width: 99.1%" src="https://activity-graph.herokuapp.com/graph?username=CL3IX&theme=dracula" />
+  <img class="img" style="width: 99%" src="https://activity-graph.herokuapp.com/graph?username=CL3IX&theme=dracula" />
 </div>
 
 ## Languages and Tools:
