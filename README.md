@@ -3,7 +3,7 @@
 I.m Farish Asqalani from Indonesia, currently im a student at SMKN 2 Banjarmasin, who is very interested in the world of programming especially web programming, I like to learn new things about technology and programming. 
 
 
-## MY GITHUB STAT
+## MY GITHUB STATS
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=CL3IX&show_icons=true&theme=dracula" />
  <img class="img" style="width: 48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=dracula&layout=compact" />
