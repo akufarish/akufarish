@@ -5,8 +5,8 @@ I.m Farish Asqalani from Indonesia, currently im a student at SMKN 2 Banjarmasin
 
 ## MY GITHUB STAT
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=CL3IX&show_icons=true&theme=vue-dark" />
- <img class="img" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=vue-dark&layout=compact" />
+ <img class="img" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=CL3IX&show_icons=true&theme=vue-dark" />
+ <img class="img" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=vue-dark&layout=compact" />
   <img class="img" src="https://activity-graph.herokuapp.com/graph?username=CL3IX&theme=dracula" />
 </div>
 
