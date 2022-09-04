@@ -6,6 +6,8 @@ I.m Farish Asqalani from Indonesia, currently im a student at SMKN 2 Banjarmasin
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=CL3IX&show_icons=true&theme=vue-dark" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=vue-dark&layout=compact" />
+ [![CL3IX github activity graph](https://activity-graph.herokuapp.com/graph?username=CL3IX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ## Languages and Tools:
