@@ -6,11 +6,8 @@ Ya ok
 
 
 ## MY GITHUB STATS
-<div style="display: flex; flex-direction: row;">
- <img class="img" style="width: 49%; border: none" src="https://github-readme-stats.vercel.app/api?username=CL3IX&show_icons=true&theme=dracula" />
- <img class="img" style="width: 48%; border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=dracula&layout=compact" />
-  <img class="img" style="width: 98%; border: none" src="https://activity-graph.herokuapp.com/graph?username=CL3IX&theme=dracula" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=CL3IX&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CL3IX&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
