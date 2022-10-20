@@ -1,8 +1,8 @@
-<h3>Hi there 👋</h3>
+<h3>Halo halo</h3>
 
 Ya ok
 
-- 🌱 Currently learning **Laravel**
+- Currently learning **Laravel**
 
 
 ## MY GITHUB STATS
