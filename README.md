@@ -7,8 +7,8 @@ Ya ok
 
 ## MY GITHUB STATS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farish-Update&show_icons=true&theme=tokyo-night" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Update&show_icons=true&locale=en&layout=compact&theme=tokyo-night" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyo-night" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyo-night" align = "center"/>
 </p>
 
 ![Farish-Update Activity Graph](https://activity-graph.herokuapp.com/graph?username=rickosong&custom_title=Farish's%20Contribution%20Graph&theme=tokyo-night&bg_color=1A1B27&hide_border=true&line=70A5FD&point=70A5FD)
