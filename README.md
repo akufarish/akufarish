@@ -9,6 +9,7 @@ Ya ok
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="width: 49%; border: none" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true" />
  <img class="img" style="width: 49%; border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farish-Asqalani&theme=tokyonight&layout=compact&hide_border=true" />
+ <img class="img" src="https://activity-graph.herokuapp.com/graph?username=Farish-Asqalani&theme=tokyo-night&hide_border=true" />
 </div>
 
 ## Languages and Tools:
