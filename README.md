@@ -9,9 +9,6 @@ Ya ok
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyo-night" align = "center"/>
 </p>
 
-![Farish-Update Activity Graph](https://activity-graph.herokuapp.com/graph?username=rickosong&custom_title=Farish's%20Contribution%20Graph&theme=tokyo-night&bg_color=1A1B27&hide_border=true&line=70A5FD&point=70A5FD)
-<br/>
-
 [![Farish-Asqalani github activity graph](https://activity-graph.herokuapp.com/graph?username=Farish-Asqalani&theme=tokyo-night)](https://github.com/Farish-Asqalani/github-readme-activity-graph)
 
 <br>
