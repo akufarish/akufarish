@@ -5,7 +5,7 @@ Ya ok
 ## MY GITHUB STATS
 
 <div style="display: flex; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyo-night&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true"  />
 </div>
 
 [![Farish-Asqalani github activity graph](https://activity-graph.herokuapp.com/graph?username=Farish-Asqalani&theme=tokyo-night)](https://github.com/Farish-Asqalani/github-readme-activity-graph)
