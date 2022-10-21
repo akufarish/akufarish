@@ -5,7 +5,7 @@ Ya ok
 ## MY GITHUB STATS
 
 <div style="display: flex; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true"  />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
