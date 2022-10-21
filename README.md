@@ -5,8 +5,8 @@ Ya ok
 ## MY GITHUB STATS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyo-night" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyo-night" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyo-night" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyo-night" align="center"/>
 </p>
 
 [![Farish-Asqalani github activity graph](https://activity-graph.herokuapp.com/graph?username=Farish-Asqalani&theme=tokyo-night)](https://github.com/Farish-Asqalani/github-readme-activity-graph)
