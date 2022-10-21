@@ -9,7 +9,6 @@ Ya ok
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="width: 49%; border: none" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true" />
  <img class="img" style="width: 49%; border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farish-Asqalani&theme=tokyonight&layout=compact&hide_border=true" />
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## Languages and Tools:
