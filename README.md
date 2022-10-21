@@ -9,7 +9,7 @@ Ya ok
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-[![Farish-Asqalani github activity graph](https://activity-graph.herokuapp.com/graph?username=Farish-Asqalani&theme=tokyo-night&hide_border=true)](https://github.com/Farish-Asqalani/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Farish-Asqalani&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
