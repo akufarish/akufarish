@@ -5,8 +5,8 @@ Radiohead - No Surprises
 ## MY GITHUB STATS
 
 <div style="display: grid; place-items: center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true"  />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farish-Asqalani&show_icons=true&theme=tokyonight&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farish-Asqalani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
