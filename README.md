@@ -1,6 +1,6 @@
 ### Halo halo
 
-ok computer
+OK Computer
 
 ## MY GITHUB STATS
 
