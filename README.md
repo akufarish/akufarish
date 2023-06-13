@@ -1,6 +1,6 @@
 ### Halo halo
 
-OK Computer
+no brain
 
 ## MY GITHUB STATS
 
