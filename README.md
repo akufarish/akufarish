@@ -1,3 +1,3 @@
 ### His name is also effort 
 
-![Alt Text](https://tenor.com/view/skull-gif-23663947)
+![Alt Text](https://media.tenor.com/g1bZgt4-tL4AAAAC/skull.gif)
