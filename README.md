@@ -1,3 +1,1 @@
-### His name is also effort 
-
-![Alt Text](https://media.tenor.com/g1bZgt4-tL4AAAAC/skull.gif)
+<h1 align="center">Hi 👋 I'm Farish</h1>
