@@ -15,7 +15,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#
+<h1 align="center">Github stats</h1>
 <p align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akufarish&show_icons=true&theme=tokyonight&hide_border=true"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=akufarish&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
