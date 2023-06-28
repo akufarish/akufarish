@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Farish</h1>
-
+<h3 align="center">Sapi sapi apa yang nempel didinding?</h3>
+<h3 align="center">stiker sapi</h3>
 - currently learning go, godot
 
 ## Language and Tools :
