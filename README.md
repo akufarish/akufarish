@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Farish</h1>
 <h3 align="center">Sapi sapi apa yang nempel didinding?</h3>
 <h3 align="center">stiker sapi</h3>
-- i currently learning go, godot
+- i currently learning go
 
 ## Language and Tools :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
