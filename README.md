@@ -13,4 +13,4 @@
 </p>
 
 #
-<p align='center'>[![](https://visitcount.itsvg.in/api?id=akufarish&icon=0&color=1)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=akufarish&icon=0&color=1)](https://visitcount.itsvg.in)
