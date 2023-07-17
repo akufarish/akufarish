@@ -3,6 +3,7 @@
 <h3 align="center"><b>stiker sapi</b></h3>
 
 📚 I’m currently learning typescript, prisma, nestjs
+💀 Banyak repo gak jelas
 
 ## 💻 Tech Stack:
 
