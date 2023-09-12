@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋 I'm Farish</h1>
-<h3 align="center">Sapi sapi apa yang nempel didinding?</h3>
-<h3 align="center"><b>stiker sapi</b></h3>
+<h3 align="center"> Banyak repo gak jelas</h3>
 
 📚 I’m currently learning typescript, prisma, nestjs
-<br >
-💀 Banyak repo gak jelas
 
 ## 💻 Tech Stack:
 
