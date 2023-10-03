@@ -3,7 +3,7 @@
 
 📚 I’m currently learning Kotlin
 <br>
-❓When yh bisa produktif
+❓kpn yh bisa produktif
 
 ## 💻 Tech Stack:
 
