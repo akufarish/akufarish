@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning code since 2021<br>📚 I'm currently learning Go<br>🎯 Goals: integrate payment gateway with go</p>
+<p align="left">✨ learning code since 2021<br>📚 I'm currently learning Go<br>🎯 Goals: integrate payment gateway with go</p>
 
 ###
 
@@ -45,6 +45,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact</h2>
 
 ###
 
