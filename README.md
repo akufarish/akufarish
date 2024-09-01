@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ learning code since 2021<br>📚 I'm currently learning Go<br>🎯 Goals: integrate payment gateway with go</p>
+<p align="left">✨ learning code since 2021<br>📚 I'm currently learning Go</p>
 
 ###
 
