@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ learning code since 2021<br>📚 I'm currently learning Go</p>
+<p align="left">✨ learning code since 2022<br>📚 I'm currently learning Go</p>
 
 ###
